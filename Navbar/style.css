@@ -51,6 +51,8 @@ button{
     display: none;
     cursor: pointer;
     transition: 0.3s;
+
+    
 }
 
 .material-symbols-outlined:hover{
